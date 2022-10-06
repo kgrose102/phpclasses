@@ -1,10 +1,8 @@
 # PHP Classes
 
-## This is an exercise in PHP Classes
+This is an exercise in PHP Classes. It utilises multilayered and extended classes, Traits, and inheritence
 
-### it uses multilayered and extended classes, Traits, and inheritence
-
-### The classes and nestings are as follows:
+## The classes and nestings are as follows
 
 * Animals (Main Class)
   * Canine(Sub class 1)
@@ -18,15 +16,28 @@
     * Parrot
     * Cardinal
 
-### Each class has the following traits:
+## Each class has the following traits
 
 * Eat
 * Drink
 * Speak
 * Move
 
-#### Each of the above classes have been customized to the respective animals as they're called.
+ Each of the above classes have been customized to the respective animals as they're called.
 
-### To run clone down and open files in a live PHP environment
+## To run
+
+* clone the repo into a PHP enabled environment
+* open
+
+ ```sh
+ phpclasses/public/index.php
+ ```
+
+* full class breakdown and files found in
+
+ ```sh
+ phpclasses/includes/classes/
+ ```
 
 ## All rights reserved Kenneth Rose 2022
